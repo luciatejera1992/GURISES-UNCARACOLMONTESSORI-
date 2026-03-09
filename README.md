@@ -1,4 +1,4 @@
-# GURISES(UNCARACOLMONTESSORI)
+# GURISES  -  UN CARACOL MONTESSORI
 
 Educación, datos y desarrollo infantil desde la filosofía Montessori
 
