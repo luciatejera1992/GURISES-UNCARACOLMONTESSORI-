@@ -14,13 +14,16 @@ El objetivo no es evaluar ni etiquetar a ninguna criatura, sino comprender mejor
 Gurises se encuentra actualmente en fase de construcción y expansión.
 
 Lo que ya existe:
-Aplicación interactiva desarrollada en Streamlit Análisis de datos educativos Dashboard de datos en Power BI
+Aplicación interactiva desarrollada en Streamlit Análisis de datos educativos
+Dashboard de datos en Power BI
 
 Lo que estoy construyendo ahora:
+Ecosistema educativo completo
+Nuevos materiales y guías para familias
+Evolución de la aplicación a un producto más robusto
+Comunidad interesada en crianza respetuosa
 
-Ecosistema educativo completo Nuevos materiales y guías para familias Evolución de la aplicación a un producto más robusto Comunidad interesada en crianza respetuosa
-
-### Propósito
+ ### Propósito
 El propósito de Gurises es aportar herramientas que ayuden a responder preguntas como:
 
 ¿Cómo influye el entorno en el desarrollo infantil?
